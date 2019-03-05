@@ -9,7 +9,7 @@
                
     </head>
     <body>
-        <h1> Welcome to Laravel </h1>
+        <h1> About us page </h1>
         <p> This is the about page </p>
 
     </body>
